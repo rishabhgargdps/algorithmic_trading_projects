@@ -4,6 +4,6 @@ sp_500_stocks.csv
 **/secrets.py
 .DS_Store
 __pycache__
-**/recommended_trades.xlsx
-**/momentum_strategy.xlsx
+**/Recommended_Trades.xlsx
+**/Momentum_Strategy.xlsx
 venv/
